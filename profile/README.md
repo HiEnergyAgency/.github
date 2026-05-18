@@ -25,7 +25,7 @@
 
 | Language | Package | Repository |
 |----------|---------|------------|
-| **Ruby** | [`hi_energy_ai`](https://rubygems.org/gems/hi_energy_ai) on RubyGems | [hi_energy_api](https://github.com/HiEnergyAgency/hi_energy_api) |
+| **Ruby** | [`hi_energy_ai`](https://rubygems.org/gems/hi_energy_ai) on RubyGems | [hi-energy-ai-ruby](https://github.com/HiEnergyAgency/hi-energy-ai-ruby) |
 | **JavaScript / TypeScript** | [`hi-energy-ai`](https://www.npmjs.com/package/hi-energy-ai) on npm | [hi-energy-ai-js](https://github.com/HiEnergyAgency/hi-energy-ai-js) |
 
 ```ruby
@@ -51,7 +51,7 @@ await client.deals.list({ active: true, country: "US" });
 
 | Repo | Description |
 |------|-------------|
-| [hi_energy_api](https://github.com/HiEnergyAgency/hi_energy_api) | Official Ruby gem for the Hi Energy AI API |
+| [hi-energy-ai-ruby](https://github.com/HiEnergyAgency/hi-energy-ai-ruby) | Official Ruby gem for the Hi Energy AI API |
 | [hi-energy-ai-js](https://github.com/HiEnergyAgency/hi-energy-ai-js) | Official JavaScript/TypeScript SDK |
 
 ### AI integrations
